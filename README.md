@@ -1,8 +1,6 @@
-# FANet
-![Method Overview](figure/image1.png)
-
 
 # Forensicability Assessment: Not All Samples Qualify for Recapture Detection
+![Method Overview](FANet.png)
 
 ## Introduction
 
